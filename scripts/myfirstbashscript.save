@@ -1,0 +1,7 @@
+#1/bin/bash
+echo "Enter Values"
+read num1
+read num2
+echo $((num1 + num2))
+echo "hello world"
+
